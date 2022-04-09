@@ -8,4 +8,6 @@ int main()
 	printf("How many terms do you want in the above series? ");
 	scanf("%d", &limit);
 	printSeries(limit);
+
+
 }
